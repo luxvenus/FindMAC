@@ -15,5 +15,5 @@ To run this Project
 ```
 $ git clone https://github.com/luxvenus/FindMAC/
 $ cd FindMAC
-$ python FindMAC.py
+$ python Fmac.py
 ```
